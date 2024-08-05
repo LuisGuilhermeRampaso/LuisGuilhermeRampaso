@@ -5,7 +5,7 @@
 <h3 align="left">I'm a developer specialized in Python</h3>
 
 <br>
-
+<hr>
 <h4 align="left">Technologies : </h4>
 
 
