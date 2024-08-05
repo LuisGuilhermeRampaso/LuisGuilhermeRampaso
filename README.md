@@ -1,8 +1,8 @@
-<h2 align="center">Hello! I'm Luís Rampaso 🖐️</h2>
+<h2 align="left">Hello! I'm Luís Rampaso 🖐️</h2>
 
 ###
 
-<h2 align="center">I'm a developer specialized in Python</h2>
+<h2 align="left">I'm a developer specialized in Python</h2>
 
 ###
 
