@@ -9,7 +9,7 @@
 <h4 align="left">Technologies : </h4>
 
 
-<img align="center" height="200" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=790b7611tfvcm7om6bwqf2qnd4kchizmzk3mmq4agyg48h1b&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=790b7611tfvcm7om6bwqf2qnd4kchizmzk3mmq4agyg48h1b&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
