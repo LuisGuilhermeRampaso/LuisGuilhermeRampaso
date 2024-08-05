@@ -2,10 +2,10 @@
 
 ###
 
-<h2 align="left">I'm a developer specialized in Python</h2>
+<h3 align="left">I'm a developer specialized in Python</h3>
 
 ###
-
+<h4 align="left">Technologies</h4>
 
 
 
