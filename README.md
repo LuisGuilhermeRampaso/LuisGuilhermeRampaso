@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="https://luisguilhermerampaso.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=googlechrome&label=&color=6366f1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=githubpages&label=&color=6366f1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
   <a href="https://www.instagram.com/luisrampaso_ntn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
@@ -60,5 +60,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisguilhermerampaso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGuilhermeRampaso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
